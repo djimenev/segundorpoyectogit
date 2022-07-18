@@ -1,0 +1,19 @@
+{
+  "name": "segundoproyectogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "segundoproyectogit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djimenev/segundorpoyectogit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djimenev/segundorpoyectogit/issues"
+  },
+  "homepage": "https://github.com/djimenev/segundorpoyectogit#readme"
+}
